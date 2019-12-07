@@ -24,7 +24,7 @@
 
 9) Avviare il tutto con il comando: node server.js.
 
-10) Se è partita la connessione (connected sul terminale) verificare prima le chiamate GET sul localhost: http://localhost/Syn_db/utenti e terminale.
+10) Se la connessione è attiva (connected sul terminale) verificare prima le chiamate GET sul localhost: http://localhost/Syn_db/utenti e terminale.
 
 11) Verificare le chiamate GET, POST, PUT su Postman.
 
